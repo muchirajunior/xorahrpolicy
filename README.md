@@ -5,8 +5,8 @@ Welcome to XoraHR! This document outlines the User Policy for the XoraHR applica
 ---
 
 ## **1. User Responsibilities**
-### 1.1 Account Registration  
-- Users must provide accurate, complete, and up-to-date information during registration.  
+### 1.1 Account Login  
+- Users must provide accurate, complete, and up-to-date information during login.  
 - Sharing login credentials with unauthorized persons is prohibited.
 
 ### 1.2 Proper Use  
@@ -51,8 +51,6 @@ Users must not upload, store, or share content that:
 ### 4.2 Payment Terms  
 - Payments are processed securely through third-party providers. Details on billing and recurring charges are provided during the subscription process.  
 
-### 4.3 Refunds  
-- Refund requests will be reviewed in accordance with the **Refund Policy**.
 
 ---
 
